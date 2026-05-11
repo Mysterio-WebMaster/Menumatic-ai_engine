@@ -1,3 +1,3 @@
-from .recommend import recommend_bp
+from .recommend_controller import recommend_bp
 
 recommend_blueprints = [recommend_bp]
